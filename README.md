@@ -6,5 +6,8 @@
 
 >Status: Deploied 🚀
 
-# Calculadora
-Calculadora web
+
+
+<p align="center">
+<img src= "Calculator.gif" width=100%
+</p>
